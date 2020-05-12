@@ -1,6 +1,6 @@
 # Titanic-Project
 
-This repository contains information about the Titanic survival project.
+This repository contains information about the Titanic survival prediction project.
 The goal of this project is to predict what type of persons were most likely to survive.
 
 * Method: Classification
